@@ -36,4 +36,4 @@
 
 ## License
 
-<p>This project is licensed under the MIT License - see the <u> LICENSE </u> file for details
+<p>This project is licensed under the MIT License - see the <ul> LICENSE </ul> file for details
