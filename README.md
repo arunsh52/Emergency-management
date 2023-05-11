@@ -3,19 +3,22 @@
 <p>This website provides real-time updates and alerts about potential disasters, interactive data visualizations displaying data related to past disasters, and resources and tools for disaster management best practices. It utilizes various technologies such as HTML, CSS, JavaScript, machine learning, and Tableau.</p>
     
 ## Features
-
-    > Real-time updates and alerts about potential disasters
-    > Interactive data visualizations displaying data related to past disasters
-    > Resources and tools for disaster management best practices
-    > An alert system to notify users of emergency situations
-
+<ol>
+    <li>Real-time updates and alerts about potential disasters</li>
+    <li>Interactive data visualizations displaying data related to past disasters</li>
+    <li>Resources and tools for disaster management best practices</li>
+    <li>An alert system to notify users of emergency situations</li>
+</ol>
+ 
 ## Technologies Used
 
-    - HTML
-    - CSS
-    - JavaScript
-    - Machine Learning
-    - Tableau
+<ul>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JavaScript</li>
+    <li>Machine Learning</li>
+    <li>Tableau</li>
+</ul>
 
 ## Getting Started
 
