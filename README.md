@@ -33,7 +33,3 @@
 ## Contributing
 
 <p>Contributions to this project are welcome! If you have any suggestions or improvements, feel free to submit a pull request.</p>
-
-## License
-
-<p>This project is licensed under the MIT License - see the <ul> LICENSE </ul> file for details
