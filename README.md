@@ -1,6 +1,4 @@
-
-# Dummy-hack-X-niet-project
-Disaster Management Website
+#Disaster Management Website
 
 This website provides real-time updates and alerts about potential disasters, interactive data visualizations displaying data related to past disasters, and resources and tools for disaster management best practices. It utilizes various technologies such as HTML, CSS, JavaScript, machine learning, and Tableau.
 Features
@@ -10,7 +8,7 @@ Features
     Resources and tools for disaster management best practices
     An alert system to notify users of emergency situations
 
-Technologies Used
+#Technologies Used
 
     HTML
     CSS
