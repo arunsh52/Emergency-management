@@ -1,4 +1,4 @@
-# Disaster Management Website
+<!-- # Disaster Management Website
 
 <p>This website provides real-time updates and alerts about potential disasters, interactive data visualizations displaying data related to past disasters, and resources and tools for disaster management best practices. It utilizes various technologies such as HTML, CSS, JavaScript, machine learning, and Tableau.</p>
     
@@ -33,3 +33,4 @@
 ## Contributing
 
 <p>Contributions to this project are welcome! If you have any suggestions or improvements, feel free to submit a pull request.</p>
+ -->
